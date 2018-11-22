@@ -26,7 +26,7 @@ In this game you have a Player and Enemies (bugs). The goal of the player is to 
 ## Built With
 
 * HTML5
-* CSS3 using Flexbox
+* CSS3
 * Object-Oriented JavaScript ES6
 
 ## Contributing
