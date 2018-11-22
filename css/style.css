@@ -1,0 +1,44 @@
+body {
+    text-align: center;
+}
+
+.modal_bg {
+  position: relative;
+  width: 400px;
+  top: 50%;
+  left: 50%;
+  background: #ffffff;
+  transform: translate(-50%, -70%);
+}
+
+.modal-heading {
+  font-family: 'Sedgwick Ave', cursive;
+  font-size: 4rem; 
+  color: #3662ce;
+  align-items: center;
+  padding: 0 1.5rem;
+  border-bottom: 1px solid gray;
+}
+
+p {
+    font-family: 'Sedgwick Ave', cursive;
+    font-size: 2rem; 
+    color: #5fc148; 
+}
+
+.modal-button {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.modal-button:hover {
+    background-color: #3662ce; /* Green */
+    color: white;
+}
